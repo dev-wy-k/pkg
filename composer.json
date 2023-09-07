@@ -1,0 +1,15 @@
+{
+    "name": "wyk/test",
+    "description": "Testing",
+    "autoload": {
+        "psr-4": {
+            "Wyk\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "WYK"
+        }
+    ],
+    "require": {}
+}
