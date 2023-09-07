@@ -1,5 +1,5 @@
 {
-    "name": "wyk/test",
+    "name": "wyk/randpass",
     "description": "Testing",
     "autoload": {
         "psr-4": {
