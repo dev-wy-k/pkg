@@ -23,4 +23,8 @@ class RandomPass {
         }
         return implode($pass);
     }
+    public function apk()
+    {
+        return 'abcd';
+    }
 }
