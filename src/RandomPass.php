@@ -25,6 +25,6 @@ class RandomPass {
     }
     public function apk()
     {
-        return 'abcd';
+        return 'abcdef';
     }
 }
